@@ -12,7 +12,7 @@
   <img src="https://thumbs.bfldr.com/at/pl546j-7le8zk-btwjnu?expiry=1722895668&fit=bounds&height=400&sig=YjZlMjgzYTExM2Y0MGM0NjQ2N2I5MGZlMGMzNDg5N2IzM2ExMjI1MQ%3D%3D&width=550" width="125" height="75">
   <img src="https://1000logos.net/wp-content/uploads/2021/06/Zoom-Logo.png" width="75" height="75">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYP2wh48_6wrG4tZleiAngKQ0ThkCjuKaSzw&s" width="150" height="75">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgl7wpiJVouzQ_6Jgf4zGvIN4uiRsOYOcbQ&s" width="100" height="150">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgl7wpiJVouzQ_6Jgf4zGvIN4uiRsOYOcbQ&s" width="100" height="100">
   <img src="https://t3.ftcdn.net/jpg/03/21/24/30/240_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg" width="400" height="200">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcOL9xEuFqTyCai9plC3BxXdUr63YkYgIyg&s" width="300" height="200">
 </div>
