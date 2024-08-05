@@ -4,8 +4,8 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*3ZOwBIddHRkF7AkM2DjG1g.png" width="100" height="50">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" width="50" height="50">
   <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width="100" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" width="100" height="25">
-  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87gdibqpr93vpfpqj7xm.png" width="100" height="25">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" width="100" height="50">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87gdibqpr93vpfpqj7xm.png" width="100" height="50">
   <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" width="150" height="150">
   <img src="https://miro.medium.com/v2/resize:fit:1050/1*OYpEW3PMltGC2MVvJ-5QTw.png" width="200" height="100">
   <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" width="150" height="100">
