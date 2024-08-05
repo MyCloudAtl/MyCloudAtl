@@ -33,5 +33,5 @@ Express.js, Node.js, Django, Python, RESTful APIs, Mongoose, SQL, MongoDB(NoSQL)
 Version Control (Git), GitHub, Trello, Slack, Figma, Zoom
 
 ### Concepts:
-MVC Architecture, Component Lifecycle, Props, Unidirectional Data Flow, Full CRUD Operations, ORM
+MVC Architecture, Component Lifecycle, Props, Unidirectional Data Flow, Full CRUD Operations, ORM, DOM Manipulation, ERD, Component Hierachy Diagrams
 
